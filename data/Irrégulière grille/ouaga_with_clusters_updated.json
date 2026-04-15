@@ -1,0 +1,3227 @@
+[
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4923, 12.3683]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0001"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4986, 12.3401]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0002"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4975, 12.3445]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0003"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.495, 12.3758]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0004"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4939, 12.3758]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0005"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 41,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4972, 12.3552]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0006"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5585, 12.3714]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0007"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5585, 12.3711]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0008"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5583, 12.3721]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0009"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5582, 12.3732]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0010"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5577, 12.3741]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0011"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5577, 12.3748]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0012"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5569, 12.3763]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0013"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 36,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5512, 12.4237]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0014"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  9",
+    "secteur": 40,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5499, 12.4449]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0015"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  9",
+    "secteur": 40,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5492, 12.4414]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0016"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  9",
+    "secteur": 36,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5515, 12.4233]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0017"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 36,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5528, 12.4166]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0018"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Camionnette Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 36,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5535, 12.4134]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0019"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5535, 12.413]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0020"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5535, 12.4126]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0021"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5557, 12.4008]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0022"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Tracteur",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 27,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4729, 12.3923]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0023"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 43,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4814, 12.3903]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0024"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 46,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4771, 12.3752]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0025"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4673, 12.3938]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0026"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4551, 12.3967]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0027"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 44,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4469, 12.3989]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0028"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4537, 12.3972]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0029"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4669, 12.3939]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0030"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4691, 12.3933]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0031"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6059, 12.3843]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0032"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6055, 12.3845]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0033"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5608, 12.3761]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0034"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Tracteur Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 14,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5614, 12.3754]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0035"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5687, 12.389]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0036"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5677, 12.3913]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0037"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion Semi-Remorque Remorque Camionnette",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5822, 12.3938]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0038"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5958, 12.3357]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0039"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.604, 12.3337]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0040"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Tracteur Remorque Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6116, 12.3308]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0041"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Camion Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6165, 12.3298]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0042"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6192, 12.3292]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0043"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 34,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6218, 12.3284]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0044"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 38,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6005, 12.3159]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0045"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 38,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6053, 12.3126]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0046"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5579, 12.3723]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0047"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.557, 12.3761]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0048"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5577, 12.3733]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0049"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5565, 12.3783]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0050"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5563, 12.3792]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0051"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5562, 12.3798]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0052"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5451, 12.3676]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0053"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 43,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4771, 12.3756]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0054"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 21,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.472, 12.3993]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0055"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 21,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4726, 12.4012]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0056"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Tracteur",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 21,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4737, 12.4052]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0057"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion Camionnette",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 27,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4734, 12.406]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0058"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 41,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4757, 12.4123]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0059"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 41,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4779, 12.4131]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0060"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 41,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.477, 12.4136]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0061"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 19,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4685, 12.4217]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0062"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 19,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4363, 12.4487]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0063"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Camion Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 19,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4814, 12.4109]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0064"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 19,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4883, 12.4052]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0065"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 19,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4911, 12.4029]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0066"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 17,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5154, 12.3962]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0067"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 17,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.53, 12.3917]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0068"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 17,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5177, 12.4025]
+    },
+    "cluster": 6,
+    "neighbors": ["3", "4", "5", "9"],
+    "_id": "oid_0069"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 17,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5047, 12.3984]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0070"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 4",
+    "secteur": 17,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5071, 12.3967]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0071"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 21,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.474, 12.4066]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0072"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Semi-Remorque Camion",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4474, 12.3988]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0073"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 42,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4627, 12.3943]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0074"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 53,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4928, 12.3086]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0075"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 50,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4851, 12.3128]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0076"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camionnette Camion Semi-Remorque Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 50,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4792, 12.3058]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0077"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 49,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4757, 12.3021]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0078"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 49,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.467, 12.2925]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0079"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 49,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4645, 12.291]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0080"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 53,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4886, 12.3124]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0081"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.529, 12.3099]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0082"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5202, 12.3119]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0083"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.529, 12.3158]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0084"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5276, 12.3256]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0085"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5256, 12.3272]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0086"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5268, 12.3279]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0087"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 16,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5928, 12.3904]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0088"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 16,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5879, 12.3899]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0089"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Semi-Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 16,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5874, 12.39]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0090"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 16,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5806, 12.3903]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0091"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Semi-Remorque Camion",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5753, 12.3894]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0092"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5731, 12.3887]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0093"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5735, 12.3894]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0094"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5716, 12.3884]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0095"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.571, 12.3885]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0096"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Tracteur Camion Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.57, 12.3884]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0097"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5665, 12.3876]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0098"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.558, 12.393]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0099"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5568, 12.3949]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0100"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Camionnette Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5567, 12.3959]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0101"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Camion Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5568, 12.3964]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0102"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5475, 12.3928]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0103"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5482, 12.3926]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0104"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 15,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5621, 12.387]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0105"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 3",
+    "secteur": 16,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5941, 12.3906]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0106"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 26,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5692, 12.3434]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0107"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 26,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.57, 12.3431]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0108"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 26,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5797, 12.3418]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0109"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 26,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5788, 12.3415]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0110"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 27,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.585, 12.3394]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0111"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 27,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5754, 12.3378]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0112"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5596, 12.3253]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0113"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5514, 12.3269]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0114"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5509, 12.3268]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0115"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5501, 12.3296]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0116"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5491, 12.3309]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0117"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5522, 12.3318]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0118"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5562, 12.3331]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0119"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5583, 12.3362]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0120"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5589, 12.337]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0121"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5619, 12.3423]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0122"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Semi-Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.551, 12.3411]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0123"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5498, 12.3316]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0124"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5496, 12.3332]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0125"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5486, 12.3365]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0126"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.545, 12.3364]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0127"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5446, 12.336]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0128"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5406, 12.3349]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0129"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Semi-Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5428, 12.3346]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0130"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5473, 12.3396]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0131"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 28,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5537, 12.3184]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0132"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 48,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4524, 12.3275]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0133"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 51,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4662, 12.3503]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0134"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camionnette Semi-Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4775, 12.3276]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0135"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 51,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4768, 12.329]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0136"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4782, 12.3267]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0137"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 51,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4853, 12.3272]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0138"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 51,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.488, 12.3288]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0139"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 53,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4878, 12.329]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0140"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4981, 12.3355]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0141"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5031, 12.3301]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0142"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 53,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4936, 12.323]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0143"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 11,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5583, 12.3704]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0144"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 8,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5404, 12.3688]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0145"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Camion Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 8,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5403, 12.3684]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0146"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 10,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5509, 12.3548]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0147"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5568, 12.3634]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0148"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.557, 12.3508]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0149"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Semi-Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5505, 12.3547]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0150"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5313, 12.3671]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0151"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5266, 12.3504]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0152"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5267, 12.3516]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0153"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5269, 12.3549]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0154"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5271, 12.3569]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0155"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5271, 12.3576]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0156"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5273, 12.3586]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0157"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5273, 12.3592]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0158"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5263, 12.3574]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0159"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5266, 12.3573]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0160"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5208, 12.3747]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0161"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  9",
+    "secteur": 37,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6015, 12.3916]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0162"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 8",
+    "secteur": 35,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6394, 12.4164]
+    },
+    "cluster": 3,
+    "neighbors": ["2", "4", "6"],
+    "_id": "oid_0163"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5363, 12.3633]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0164"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4933, 12.3518]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0165"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.493, 12.3519]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0166"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Camion Remorque Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4974, 12.3398]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0167"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4976, 12.3379]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0168"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière Camion Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5029, 12.3333]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0169"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5067, 12.3369]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0170"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4995, 12.3422]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0171"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camion",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4988, 12.3432]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0172"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4972, 12.3457]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0173"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4966, 12.3465]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0174"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4942, 12.3502]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0175"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 22,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4771, 12.3754]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0176"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 23,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4849, 12.3758]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0177"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  5",
+    "secteur": 21,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4919, 12.3823]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0178"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 9,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5464, 12.3756]
+    },
+    "cluster": 4,
+    "neighbors": ["2", "3", "5", "6", "8"],
+    "_id": "oid_0179"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5542, 12.3452]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0180"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.553, 12.3428]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0181"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  2",
+    "secteur": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.552, 12.3415]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0182"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Remorque",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5512, 12.3408]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0183"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 4,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5499, 12.3399]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0184"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camionnette",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 4,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5469, 12.3377]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0185"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.545, 12.3364]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0186"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 4,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5445, 12.336]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0187"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 4,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5408, 12.335]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0188"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 3,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5385, 12.3351]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0189"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5429, 12.3457]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0190"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5493, 12.3482]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0191"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 1",
+    "secteur": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5403, 12.3546]
+    },
+    "cluster": 5,
+    "neighbors": ["1", "4", "6", "7", "8", "9"],
+    "_id": "oid_0192"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 44,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4693, 12.3779]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0193"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 44,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4699, 12.3787]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0194"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  10",
+    "secteur": 44,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4682, 12.3822]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0195"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5418, 12.3288]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0196"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5382, 12.3273]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0197"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5334, 12.3253]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0198"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5498, 12.3225]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0199"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 29,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5531, 12.3234]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0200"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  6",
+    "secteur": 25,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5527, 12.3225]
+    },
+    "cluster": 8,
+    "neighbors": ["2", "4", "5", "7"],
+    "_id": "oid_0201"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 46,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4699, 12.3786]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0202"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  11",
+    "secteur": 46,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4682, 12.3821]
+    },
+    "cluster": 9,
+    "neighbors": ["1", "5", "6"],
+    "_id": "oid_0203"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Tracteur Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5294, 12.3003]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0204"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5294, 12.3009]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0205"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camionnette Camion",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5293, 12.2992]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0206"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Semi-Remorque Remorque Tracteur",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.529, 12.295]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0207"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camion",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 30,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.5294, 12.2871]
+    },
+    "cluster": 7,
+    "neighbors": ["1", "2", "5", "8"],
+    "_id": "oid_0208"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 32,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6004, 12.3159]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0209"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 32,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6053, 12.3126]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0210"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Camionnette Voiture particulière Tracteur Camion Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 33,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6193, 12.3291]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0211"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 32,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6274, 12.3268]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0212"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Voiture particulière Camionnette Camion Tracteur Semi-Remorque Remorque",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 32,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6168, 12.3301]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0213"
+  },
+  {
+    "nom_entreprise": "Vendeur de véhicules d’occasion",
+    "type_marque": "Semi-Remorque Remorque Camionnette",
+    "quantite": 0,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement 7",
+    "secteur": 32,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.6115, 12.3308]
+    },
+    "cluster": 2,
+    "neighbors": ["3", "4", "7", "8"],
+    "_id": "oid_0214"
+  },
+  {
+    "nom_entreprise": "Concessionnaire de marques",
+    "type_marque": "Voiture particulière Camionnette",
+    "quantite": 1,
+    "ville": "Ouagadougou",
+    "arrondissement": "Arrondissement  12",
+    "secteur": 53,
+    "location": {
+      "type": "Point",
+      "coordinates": [-1.4883, 12.3131]
+    },
+    "cluster": 1,
+    "neighbors": ["5", "7", "9"],
+    "_id": "oid_0215"
+  }
+]
