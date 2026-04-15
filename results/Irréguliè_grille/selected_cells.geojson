@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "selected_cells",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster_id": 2, "selected": true }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.584781, 12.354564 ], [ -1.574105, 12.291859 ], [ -1.595015, 12.187128 ], [ -1.739355, 12.187128 ], [ -1.739355, 12.383601 ], [ -1.586986, 12.356505 ], [ -1.584781, 12.354564 ] ] ] } },
+{ "type": "Feature", "properties": { "cluster_id": 3, "selected": true }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.656162, 12.548696 ], [ -1.573662, 12.407989 ], [ -1.586986, 12.356505 ], [ -1.739355, 12.383601 ], [ -1.739355, 12.548696 ], [ -1.656162, 12.548696 ] ] ] } },
+{ "type": "Feature", "properties": { "cluster_id": 4, "selected": true }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.532152, 12.394951 ], [ -1.553289, 12.359981 ], [ -1.584781, 12.354564 ], [ -1.586986, 12.356505 ], [ -1.573662, 12.407989 ], [ -1.532152, 12.394951 ] ] ] } },
+{ "type": "Feature", "properties": { "cluster_id": 8, "selected": true }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.525223, 12.337518 ], [ -1.574105, 12.291859 ], [ -1.584781, 12.354564 ], [ -1.553289, 12.359981 ], [ -1.525223, 12.337518 ] ] ] } }
+]
+}
