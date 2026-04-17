@@ -1,3 +1,5 @@
+## 🇬🇧 English version
+
 # 🛰️ Scalable Spatial Data Processing and Geospatial Index Optimization
 
 ## 📌 Overview
@@ -198,4 +200,210 @@ PhD in Computer Science – Data Science
 - Real-time spatial data integration  
 - AI-based geospatial prediction  
 - Smart city decision systems  
-- Distributed spatial indexing at scale  
+- Distributed spatial indexing at scale
+
+...
+
+## 🇫🇷 Version française
+
+# 🛰️ Traitement Spatial Scalable et Optimisation des Index Géospatiaux
+
+## 📌 Vue d’ensemble
+
+Ce projet propose un cadre complet et scalable pour le **traitement des données spatiales**, le **clustering**, et l’**optimisation des requêtes géospatiales**, basé sur des données réelles collectées à Ouagadougou (Burkina Faso).
+
+🎯 L’objectif principal est d’améliorer les performances des requêtes dans les **bases de données NoSQL géospatiales** en combinant des techniques avancées de modélisation spatiale et d’indexation.
+
+🔗 **Manuscrit complet (méthodologie détaillée et résultats) :**  
+https://drive.google.com/file/d/1K6SgNbvxBHv69hW-h2tSLjJiX3o0-P30/view?usp=sharing
+
+---
+
+## 🚀 Contributions principales
+
+✔ Modélisation spatiale hybride (Voronoï + grille régulière)  
+✔ Nouvelle stratégie d’indexation basée sur le voisinage  
+✔ Évaluation des performances des requêtes géospatiales sous MongoDB  
+✔ Intégration de traitements séquentiels et distribués (Spark)  
+✔ Approche scalable pour les grandes bases de données spatiales  
+
+---
+
+## 🗂️ Préparation des données
+
+Les données initiales ont été collectées sur le terrain et stockées dans :
+
+* `Ouagadougou.xlsx`
+
+Pipeline de transformation :
+
+* Excel → JSON avec Python (`pandas`)  
+* Script : `ConversionXLSX_toJSON.py`
+
+Chaque document contient :
+
+- Informations sur l’entreprise  
+- Type de produit  
+- Coordonnées GPS  
+- Données administratives  
+
+---
+
+## 🧠 Approche 1 : Modélisation spatiale basée sur Voronoï
+
+### 🔹 Méthodologie
+
+- Clustering K-means  
+- Génération de diagrammes de Voronoï (R – `deldir`)  
+- Affectation des points aux clusters  
+- Export des données pour visualisation SIG  
+
+### 📁 Fichiers principaux
+
+- `Enrichi_En_cluster_JSON_to_Mongo_shp_TO_Qgis.R`  
+- `Enrichi_En_voisinage.R`  
+- `ouaga_with_clusters.json`  
+- `ouaga_with_clusters_updated.json`  
+
+### 📊 Résultats
+
+- Données clusterisées  
+- Relations de voisinage entre clusters  
+- Couches SIG :
+
+  - `entreprises_points.shp`  
+  - `voronoi_cells.shp`  
+  - `centroids.shp`  
+
+---
+
+## ⚡ Évaluation des performances (Approche Voronoï)
+
+### Index testés
+
+- `_id` (index par défaut)  
+- `location_2dsphere`  
+- `neighbors_1`  
+- `cluster_1_neighbors_1`  
+
+### 📈 Résultat clé
+
+👉 Les index basés sur le voisinage surpassent significativement les index purement géospatiaux en termes de performance.
+
+---
+
+## 🧩 Approche 2 : Modélisation basée sur grille régulière
+
+### 🔹 Méthodologie
+
+- Génération de grilles carrées (7 km × 7 km)  
+- Affectation des points aux cellules  
+- Correction des points non assignés  
+- Calcul du voisinage (8-voisinage)  
+
+### 📁 Fichiers principaux
+
+- `Enrichie_cluster_shpToQgis.R`  
+- `Enrichie_cluster_surLigne_shpToQgis.R`  
+- `Enrichie_cluster_voisin.R`  
+
+### 📊 Résultats
+
+- `ouaga_cluster.json`  
+- `ouaga_cluster_corrige.json`  
+- `ouaga_cluster_voisins.json`  
+
+---
+
+## ⚡ Évaluation des performances (Approche grille)
+
+### Index testés
+
+- `cluster_1`  
+- `voisins_1`  
+- `localisation_site_2dsphere`  
+
+### 📈 Résultat clé
+
+- Les index de cluster et de voisinage sont les plus performants  
+- `COLLSCAN` est le moins performant (balayage complet)  
+
+---
+
+## 🔍 Algorithme avancé : Sélection progressive des clusters
+
+Ce projet introduit un algorithme de sélection spatiale basé sur :
+
+➡️ **le cercle discret analytique (Eric Andrès)**
+
+### 🎯 Objectif
+
+- Expansion progressive du rayon de recherche  
+- Sélection efficace des clusters pertinents  
+
+### 📁 Fichiers
+
+- `eric9.py` (Voronoï)  
+- `eric8.py` (Grille)  
+
+### 📊 Résultats
+
+- `selected_cells.geojson`  
+- `selected_cells.shp`  
+
+---
+
+## ⚙️ Traitement séquentiel vs parallèle
+
+### 🔹 Traitement séquentiel
+
+- Python + PyMongo  
+- Fichiers : `seq*.py`  
+
+### 🔹 Traitement distribué
+
+- Apache Spark (PySpark)  
+- Fichiers : `spark*.py`  
+
+### 📈 Résultat clé
+
+👉 Le traitement parallèle améliore significativement les performances sur des données volumineuses.
+
+---
+
+## 🧰 Technologies utilisées
+
+- Python (Pandas, PyMongo)  
+- R (calcul spatial)  
+- MongoDB (indexation géospatiale)  
+- QGIS (visualisation)  
+- Apache Spark (calcul distribué)  
+
+---
+
+## 🌍 Impact et applications
+
+Ce travail contribue à :
+
+- Les infrastructures de villes intelligentes  
+- L’optimisation de la planification urbaine  
+- Les systèmes d’aide à la décision spatiale  
+- L’analyse géospatiale à grande échelle  
+
+---
+
+## 📬 Auteur
+
+**Moubaric KABORE**  
+Doctorat en Informatique – Science des données  
+
+🔬 Science des données spatiales | SIG | Big Data | Systèmes distribués  
+
+---
+
+## 🔮 Travaux futurs
+
+- Intégration de données spatiales en temps réel  
+- Modèles d’apprentissage automatique pour la prédiction spatiale  
+- Systèmes intelligents d’aide à la décision urbaine  
+- Indexation spatiale distribuée à grande échelle  
