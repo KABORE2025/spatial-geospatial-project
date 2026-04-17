@@ -1,193 +1,201 @@
-# 🛰️ Spatial Data Processing and Geospatial Index Optimization
+# 🛰️ Scalable Spatial Data Processing and Geospatial Index Optimization
 
 ## 📌 Overview
 
-This project presents a comprehensive framework for **spatial data processing**, **clustering**, and **geospatial query optimization** using real-world data collected in Ouagadougou (Burkina Faso).
+This project presents a comprehensive and scalable framework for **spatial data processing**, **clustering**, and **geospatial query optimization** using real-world data collected in Ouagadougou (Burkina Faso).
 
-The objective is to improve query performance in **geospatial databases** by integrating:
+🎯 The main objective is to improve query performance in **geospatial NoSQL databases** by combining advanced spatial modeling and indexing strategies.
 
-* Spatial clustering (K-means)
-* Voronoi diagram modeling
-* Regular grid partitioning
-* Neighborhood-based indexing
-* Parallel and sequential data processing
+🔗 **Full manuscript (detailed methodology and results):**  
+https://drive.google.com/file/d/1K6SgNbvxBHv69hW-h2tSLjJiX3o0-P30/view?usp=sharing
+
+---
+
+## 🚀 Core Contributions
+
+✔ Hybrid spatial modeling (Voronoi + Regular Grid)  
+✔ Novel neighborhood-based indexing strategy  
+✔ Performance evaluation of geospatial queries in MongoDB  
+✔ Integration of sequential and distributed processing (Spark)  
+✔ Scalable approach for large spatial datasets  
 
 ---
 
 ## 🗂️ Data Preparation
 
-Initial data were collected from field surveys and stored in an Excel file:
+Initial data were collected from field surveys and stored in:
 
 * `Ouagadougou.xlsx`
 
-The data were converted into JSON format using Python (`pandas`):
+Data conversion pipeline:
 
-* `ConversionXLSX_toJSON.py`
+* Excel → JSON using Python (`pandas`)
+* Script: `ConversionXLSX_toJSON.py`
 
-Each document contains attributes such as:
+Each document includes:
 
-* Enterprise name
-* Product type
-* Location (GPS coordinates)
-* Administrative information
+- Enterprise information  
+- Product type  
+- GPS coordinates  
+- Administrative attributes  
 
 ---
 
 ## 🧠 Approach 1: Voronoi-Based Spatial Modeling
 
-### 🔹 Steps
+### 🔹 Methodology
 
-* Apply **K-means clustering**
-* Generate **Voronoi diagrams** using R (`deldir`)
-* Assign each point to a cluster
-* Export spatial data for visualization in QGIS
+- K-means clustering  
+- Voronoi diagram generation (R – `deldir`)  
+- Cluster assignment  
+- Spatial export for GIS visualization  
 
 ### 📁 Key Files
 
-* `Enrichi_En_cluster_JSON_to_Mongo_shp_TO_Qgis.R`
-* `Enrichi_En_voisinage.R`
-* `ouaga_with_clusters.json`
-* `ouaga_with_clusters_updated.json`
+- `Enrichi_En_cluster_JSON_to_Mongo_shp_TO_Qgis.R`  
+- `Enrichi_En_voisinage.R`  
+- `ouaga_with_clusters.json`  
+- `ouaga_with_clusters_updated.json`  
 
-### 📊 Output
+### 📊 Outputs
 
-* Clustered data
-* Neighbor relationships between clusters
-* Shapefiles for GIS visualization:
+- Clustered spatial data  
+- Neighbor relationships  
+- GIS layers:
 
-  * `entreprises_points.shp`
-  * `voronoi_cells.shp`
-  * `centroids.shp`
+  - `entreprises_points.shp`  
+  - `voronoi_cells.shp`  
+  - `centroids.shp`  
 
 ---
 
 ## ⚡ Performance Evaluation (Voronoi Approach)
 
-Different indexes were tested in MongoDB:
+### Indexes Tested
 
-* `_id` (default index)
-* `location_2dsphere`
-* `neighbors_1`
-* `cluster_1_neighbors_1`
+- `_id` (default)  
+- `location_2dsphere`  
+- `neighbors_1`  
+- `cluster_1_neighbors_1`  
 
-### 📈 Key Result
+### 📈 Key Insight
 
-👉 Neighborhood-based indexes significantly outperform spatial-only indexes.
+👉 Neighborhood-based indexes significantly outperform purely spatial indexes in query efficiency.
 
 ---
 
 ## 🧩 Approach 2: Regular Grid-Based Modeling
 
-### 🔹 Steps
+### 🔹 Methodology
 
-* Generate square grids (7 km × 7 km)
-* Assign points to grid cells (clusters)
-* Correct unassigned points
-* Compute neighborhood (8-neighborhood)
+- Grid generation (7 km × 7 km)  
+- Cluster assignment  
+- Correction of unassigned points  
+- 8-neighborhood computation  
 
 ### 📁 Key Files
 
-* `Enrichie_cluster_shpToQgis.R`
-* `Enrichie_cluster_surLigne_shpToQgis.R`
-* `Enrichie_cluster_voisin.R`
+- `Enrichie_cluster_shpToQgis.R`  
+- `Enrichie_cluster_surLigne_shpToQgis.R`  
+- `Enrichie_cluster_voisin.R`  
 
-### 📊 Output
+### 📊 Outputs
 
-* `ouaga_cluster.json`
-* `ouaga_cluster_corrige.json`
-* `ouaga_cluster_voisins.json`
+- `ouaga_cluster.json`  
+- `ouaga_cluster_corrige.json`  
+- `ouaga_cluster_voisins.json`  
 
 ---
 
 ## ⚡ Performance Evaluation (Grid Approach)
 
-### Indexes Tested:
+### Indexes Tested
 
-* `cluster_1`
-* `voisins_1`
-* `localisation_site_2dsphere`
+- `cluster_1`  
+- `voisins_1`  
+- `localisation_site_2dsphere`  
 
-### 📈 Key Result
+### 📈 Key Insight
 
-* **Cluster and neighborhood indexes are the most efficient**
-* `COLLSCAN` is the least efficient (full database scan)
+- Cluster and neighborhood indexes are the most efficient  
+- `COLLSCAN` is the least efficient (full scan)  
 
 ---
 
 ## 🔍 Advanced Algorithm: Progressive Cluster Selection
 
-We implement a spatial selection algorithm based on:
+This project introduces a spatial selection algorithm based on:
 
-➡️ Analytical discrete circle (Eric Andres)
+➡️ **Analytical Discrete Circle (Eric Andres)**
 
 ### 🎯 Objective
 
-* Iteratively expand search radius
-* Select relevant spatial clusters efficiently
+- Progressive expansion of spatial search radius  
+- Efficient selection of relevant clusters  
 
 ### 📁 Files
 
-* `eric9.py` (Voronoi)
-* `eric8.py` (Grid)
+- `eric9.py` (Voronoi)  
+- `eric8.py` (Grid)  
 
-### 📊 Output
+### 📊 Outputs
 
-* `selected_cells.geojson`
-* `selected_cells.shp`
+- `selected_cells.geojson`  
+- `selected_cells.shp`  
 
 ---
 
 ## ⚙️ Sequential vs Parallel Processing
 
-Two processing strategies were implemented:
+### 🔹 Sequential Processing
 
-### 🔹 Sequential
+- Python + PyMongo  
+- Files: `seq*.py`  
 
-* Python + PyMongo
-* Files: `seq1`, `seq3`, `seq4`, etc.
+### 🔹 Distributed Processing
 
-### 🔹 Parallel
+- Apache Spark (PySpark)  
+- Files: `spark*.py`  
 
-* Apache Spark (PySpark)
-* Files: `spark3.py`, `spark4.py`, etc.
+### 📈 Key Insight
 
-### 📈 Result
-
-👉 Parallel processing significantly improves performance on large datasets.
+👉 Parallel processing significantly improves performance for large-scale spatial data.
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Technologies
 
-* Python (Pandas, PyMongo)
-* R (Spatial processing)
-* MongoDB (NoSQL, Geospatial indexing)
-* QGIS (Visualization)
-* Apache Spark (Big Data processing)
+- Python (Pandas, PyMongo)  
+- R (Spatial computation)  
+- MongoDB (Geospatial indexing)  
+- QGIS (Visualization)  
+- Apache Spark (Distributed computing)  
 
 ---
 
-## 🎯 Key Contributions
+## 🌍 Impact & Applications
 
-✔ Hybrid spatial modeling (Voronoi + Grid)
-✔ Neighborhood-based indexing strategy
-✔ Performance evaluation of geospatial queries
-✔ Scalable spatial data processing
+This work contributes to:
+
+- Smart city infrastructure  
+- Urban planning optimization  
+- Spatial decision support systems  
+- Large-scale geospatial analytics  
 
 ---
 
 ## 📬 Author
 
-**Moubaric KABORE**
-PhD in Computer Science – Data Science
-Spatial Data Science | GIS | Big Data
+**Moubaric KABORE**  
+PhD in Computer Science – Data Science  
+
+🔬 Spatial Data Science | GIS | Big Data | Distributed Systems  
 
 ---
 
-## 🔗 Future Work
+## 🔮 Future Work
 
-* Integration with real-time urban systems
-* Smart city applications
-* AI-based spatial prediction
-
----
+- Real-time spatial data integration  
+- AI-based geospatial prediction  
+- Smart city decision systems  
+- Distributed spatial indexing at scale  
