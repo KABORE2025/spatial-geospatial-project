@@ -217,6 +217,7 @@ IJACSA
 
 KABORE M., et al. (2025)  
 Springer – ICICT  
+https://drive.google.com/file/d/1rghrzPdZQC4AO5d6YQFV1PPl_jBXcG8P/view?usp=sharing
 
 🔗 DOI: https://doi.org/10.1007/978-981-96-6435-1_24  
 
