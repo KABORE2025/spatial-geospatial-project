@@ -445,6 +445,59 @@ Ce travail contribue à :
 
 ---
 
+## 📚 Publications
+
+🔗 Liste complète (ORCID) :  
+https://orcid.org/0009-0009-2775-8405
+
+---
+
+### 1. Classification des données spatiales basée sur K-means et diagramme de Voronoï
+
+KABORE M., et al. (2024)  
+International Journal of Advanced Computer Science and Applications (IJACSA)
+
+🔗 DOI : https://doi.org/10.14569/IJACSA.2024.01507139  
+
+💡 Code associé disponible dans ce dépôt  
+
+---
+
+### 2. Framework de recherche de données dans une base SIG avec MapReduce
+
+SERE A., et al., KABORE M. (2021)  
+IJACSA  
+
+🔗 DOI : https://doi.org/10.14569/IJACSA.2021.0120374  
+
+---
+
+### 3. Recherche de données dans les bases SIG avec MapReduce et probabilité bayésienne
+
+KABORE M., et al. (2025)  
+Springer – ICICT  
+
+🔗 DOI : https://doi.org/10.1007/978-981-96-6435-1_24  
+
+---
+
+### 4. Algorithmes de recherche dans de grandes données spatiales via cercle discret analytique
+
+KABORE M., et al. (2025)  
+Springer  
+
+🔗 DOI : https://doi.org/10.1007/978-3-032-11521-8_9  
+
+💡 Code associé : OpenMP + recherche spatiale  
+
+---
+
+### 5. Amélioration de l’architecture des systèmes experts pour la recherche dans les bases SIG
+
+ZOUNGRANA B.O.I., KABORE M., et al. (2025)
+
+🔗 DOI : https://doi.org/10.1109/ACDSA65407.2025.11166159  
+
 ## 📬 Auteur
 
 **Moubaric KABORE**  
