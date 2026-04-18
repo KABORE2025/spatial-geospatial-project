@@ -186,6 +186,59 @@ This work contributes to:
 
 ---
 
+## 📚 Publications
+
+🔗 Full list (ORCID):  
+https://orcid.org/0009-0009-2775-8405
+
+---
+
+### 1. Classification of Spatial Data Based on K-means and Voronoi Diagram
+
+KABORE M., et al. (2024)  
+International Journal of Advanced Computer Science and Applications (IJACSA)
+
+🔗 DOI: https://doi.org/10.14569/IJACSA.2024.01507139  
+
+💡 Related code available in this repository  
+
+---
+
+### 2. A Framework for Data Research in GIS Database using Meshing Techniques and MapReduce
+
+SERE A., OUATTARA J.S.D., et al., KABORE M. (2021)  
+IJACSA  
+
+🔗 DOI: https://doi.org/10.14569/IJACSA.2021.0120374  
+
+---
+
+### 3. Data Search in Smart GIS Database using MapReduce Pattern and Bayesian Probability
+
+KABORE M., et al. (2025)  
+Springer – ICICT  
+
+🔗 DOI: https://doi.org/10.1007/978-981-96-6435-1_24  
+
+---
+
+### 4. Search Algorithms in Large Spatial Data using Analytical Digital Circle
+
+KABORE M., et al. (2025)  
+Springer  
+
+🔗 DOI: https://doi.org/10.1007/978-3-032-11521-8_9  
+
+💡 Related code: OpenMP + spatial search  
+
+---
+
+### 5. Improving the Architecture of Expert Systems for GIS Data Search
+
+ZOUNGRANA B.O.I., KABORE M., et al. (2025)
+
+🔗 DOI: https://doi.org/10.1109/ACDSA65407.2025.11166159  
+
 ## 📬 Author
 
 **Moubaric KABORE**  
