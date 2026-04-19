@@ -240,6 +240,12 @@ ZOUNGRANA B.O.I., KABORE M., et al. (2025)
 
 🔗 DOI: https://doi.org/10.1109/ACDSA65407.2025.11166159  
 
+🟡 Work in Progress
+
+Applied Spatial Data Classification Using K-means and Voronoi Diagram: A Case Study
+KABORE M., et al. (2025)
+👉 Accepted – extension of the 2024 model
+
 ## 📬 Author
 
 **Moubaric KABORE**  
@@ -498,6 +504,11 @@ Springer
 ZOUNGRANA B.O.I., KABORE M., et al. (2025)
 
 🔗 DOI : https://doi.org/10.1109/ACDSA65407.2025.11166159  
+
+### 🟡 Travaux en cours
+
+Application de la classification spatiale (2025)  
+👉 Accépté - extension du modèle proposé en 2024  
 
 ## 📬 Auteur
 
